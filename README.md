@@ -260,7 +260,7 @@ git push origin feature-branch
 
 ## **Contact**
 
-For more information or questions, please contact us at:
+For more information or questions, please contact me at:
 
 **Email**: prdmn.shrm@gmail.com
 
