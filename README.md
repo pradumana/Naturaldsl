@@ -1,6 +1,3 @@
-Here is the properly formatted documentation that you can upload to your **GitHub** and **PyPI**:
-
----
 
 # **NaturalDSL: Documentation**
 
